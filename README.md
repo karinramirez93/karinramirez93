@@ -1,18 +1,18 @@
-Hi, I'm Mr. Karin Ramirez! 👋
+# Hi, I'm Mr. Karin Ramirez ! 👋
 
-Computer Science Student @ UNO | Associate of Applied Science in Computer Network Technology
+### Computer Science Student @ UNO | Associate of Applied Science in Computer Network Technology
 
-I am a results-driven technology professional currently pursuing a Bachelor of Science in Computer Science at the University of New Orleans (UNO), maintaining a 3.22 GPA. 
-I combine my current academic focus on software development with a strong technical background in networking and systems.
+I am a results-driven technology professional currently pursuing a Bachelor of Science in Computer Science at the University of New Orleans (UNO). 
+I combine my academic focus on software development with a strong technical background in networking and systems.
 
 - 🔭 **Current Project:** Building a multiplayer game using **Java**, **JavaFX**, and **Sockets** for real-time network communication.
-- 🌱 **Core Competencies:** Data Structures, Systems Programming, and Mobile App Development (React Native).
+- 🌱 **Academic Focus:** Extensive training in **Java** (Data Structures & Software Design) and currently coursework in **Assembly Language**.
 - 💡 **Interests:** High-performance software, network-integrated applications, and Linux system administration.
-- 🎓 **Education:** Associate of Applied Science in Computer Network Technology from Delgado Community College (Graduated May 2021).
+- 🎓 **Education:** Associate of Applied Science in Computer Network Technology from Delgado Community College.
 
 ---
 
-🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -24,18 +24,27 @@ I combine my current academic focus on software development with a strong techni
 
 ---
 
-📜 Certifications & Achievements
-A.A.S. Computer Network Technology:** Delgado Community College
-Ultimate GIT:** Project management and team collaboration - Udemy
-Linux Mastery:** Advanced command line and system administration - Udemy
-Java Programming:** Solid foundations in object-oriented programming - SoloLearn
+### 📜 Professional Certifications
+*Completed to reinforce technical foundations during personal time:*
+
+* **Ultimate GIT:** Project management and team collaboration - Udemy
+* **Linux Mastery:** Advanced command line and system administration - Udemy
+* **Java Programming:** Reinforcement of OOP concepts - SoloLearn
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karinramirez93&show_icons=true&theme=radical&include_all_commits=true" alt="Karin's Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karinramirez93&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Karin's Stats"/>
+</p>
+
+---
+
+### 🐍 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinramirez93&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
 </p>
 
 ---
@@ -43,9 +52,10 @@ Java Programming:** Solid foundations in object-oriented programming - SoloLearn
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/karin-ramirez-8a0622252" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://karinramirez93.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000.svg?style=for-the-badge&logo=firefox&logoColor=ff8000" alt="Portfolio"/>
   </a>
